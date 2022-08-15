@@ -1,0 +1,22 @@
+{
+  "name": "project-first-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lethaison1999/project-first-nodejs.git"
+  },
+  "author": "Le Thai Son",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lethaison1999/project-first-nodejs/issues"
+  },
+  "homepage": "https://github.com/lethaison1999/project-first-nodejs#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
